@@ -1,4 +1,5 @@
 **Water Quality Prediction Project**
+
 Project Overview
 This project aims to analyze and predict water quality using machine learning techniques. The Random Forest Classifier model is used to classify water samples as suitable or unsuitable based on various chemical parameters.
 
